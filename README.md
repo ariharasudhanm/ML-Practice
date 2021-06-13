@@ -56,7 +56,7 @@ Running system must installed with the following packages to run the code.
 Algorithm cannot be implemented, since its under development progress for production ready code with the improved accuracy.
 
 ### Build
-* Built with 
+ 
 
 ## Resources (Documentation and other links)
 This algorithm is built with the help of book 'Machine learning with real world Projects' which is available through oreilly learning or Packt Publishing.
