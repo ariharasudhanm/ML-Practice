@@ -3,7 +3,7 @@
 ## About / Synopsis
 
 * It is an Linear Regression model for predicting the price of a new car which is yet to be launched for a certain market.
-* Project status: working
+* Project status: working for better accuracy.
 
 
 ## Table of contents
