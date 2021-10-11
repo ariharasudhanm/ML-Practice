@@ -13,7 +13,7 @@
 >   * [Table of contents](#table-of-contents)
 >   * [Installation](#installation)
 >   * [Usage](#usage)
->     * [Screenshots](#screenshots)
+>     * [Confusion matrix](#screenshots)
 >     * [Features](#features)
 >   * [Code](#code)
 >     * [Content](#content)
