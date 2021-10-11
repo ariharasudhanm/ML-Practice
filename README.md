@@ -43,7 +43,7 @@
 
 
 ### Requirements
-Running system must installed with the following packages to run the code.
+The following versions of the packages are used to run the code.
 * numpy 1.20.3
 * pandas 1.2.4
 * matplotlib 3.4.2 
@@ -53,11 +53,9 @@ Running system must installed with the following packages to run the code.
 * re 0.4.2
 
 ### Limitations
-Algorithm cannot be implemented, since its under development progress for production ready code with the improved accuracy.
+Algorithm cannot be as true as other predicted alogorithms, since its under development progress for production ready code with the improved accuracy.
 
-### Build
- 
 
 ## Resources (Documentation and other links)
-This algorithm is built with the help of book 'Machine learning with real world Projects' which is available through oreilly learning or Packt Publishing.
+This algorithm is built with the help of book 'Machine learning with real world Projects' which is available through oreilly learning or Packt Publishing websites.
 
